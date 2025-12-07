@@ -1,0 +1,50 @@
+[
+  {
+    "id": "b1",
+    "title": "Premium Dental Care",
+    "category": "Dental",
+    "description": "Comprehensive coverage for cleanings, fillings, and major procedures.",
+    "coverage": "100% preventive, 80% basic, 50% major",
+    "provider": "Delta Dental"
+  },
+  {
+    "id": "b2",
+    "title": "Basic Dental Plan",
+    "category": "Dental",
+    "description": "Essential coverage for routine checkups and emergencies.",
+    "coverage": "100% preventive, 50% basic",
+    "provider": "MetLife"
+  },
+  {
+    "id": "b3",
+    "title": "Mental Wellness Plus",
+    "category": "Mental Health",
+    "description": "Access to therapy sessions, meditation apps, and counseling.",
+    "coverage": "20 sessions/year, free Calm subscription",
+    "provider": "Lyra Health"
+  },
+  {
+    "id": "b4",
+    "title": "Employee Assistance Program",
+    "category": "Mental Health",
+    "description": "24/7 confidential support for personal and work-related issues.",
+    "coverage": "Unlimited calls, 5 in-person sessions",
+    "provider": "Optum"
+  },
+  {
+    "id": "b5",
+    "title": "Vision Gold",
+    "category": "Vision",
+    "description": "Annual eye exams and allowance for frames or contacts.",
+    "coverage": "$200 frame allowance, $10 copay exams",
+    "provider": "VSP"
+  },
+  {
+    "id": "b6",
+    "title": "OPD Coverage",
+    "category": "OPD",
+    "description": "Reimbursement for outpatient consultations and diagnostics.",
+    "coverage": "Up to $500/year",
+    "provider": "Aetna"
+  }
+]
